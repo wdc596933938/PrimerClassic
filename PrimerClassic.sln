@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimerClassic", "PrimerClassic\PrimerClassic.csproj", "{7FC0ECC6-9056-4A32-A71D-1305479B536E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardLib", "CardLib\CardLib.csproj", "{9D1DB88E-F1AE-4747-A9D5-6A139D0F68F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardClient", "CardClient\CardClient.csproj", "{DFB0BDE7-8346-4831-B0CE-219AF6E9B248}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm", "WinForm\WinForm.csproj", "{A11FF934-BC1E-4235-8738-48FD45748DB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsForms", "WindowsForms\WindowsForms.csproj", "{B8DE729F-26C8-4C12-843F-BB3EC784A91F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists", "Lists\Lists.csproj", "{CFA61659-1A37-4ECC-BD70-88336865DD4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabControl", "TabControl\TabControl.csproj", "{F90F3DA5-3CD0-4EBB-AB6D-7F6A62B92CF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelTextBox", "LLabelTextBox\LabelTextBox.csproj", "{82716751-BCE3-4EBD-882E-0E1CC6CA5F97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FC0ECC6-9056-4A32-A71D-1305479B536E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC0ECC6-9056-4A32-A71D-1305479B536E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC0ECC6-9056-4A32-A71D-1305479B536E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC0ECC6-9056-4A32-A71D-1305479B536E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D1DB88E-F1AE-4747-A9D5-6A139D0F68F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D1DB88E-F1AE-4747-A9D5-6A139D0F68F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D1DB88E-F1AE-4747-A9D5-6A139D0F68F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D1DB88E-F1AE-4747-A9D5-6A139D0F68F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFB0BDE7-8346-4831-B0CE-219AF6E9B248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB0BDE7-8346-4831-B0CE-219AF6E9B248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB0BDE7-8346-4831-B0CE-219AF6E9B248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB0BDE7-8346-4831-B0CE-219AF6E9B248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A11FF934-BC1E-4235-8738-48FD45748DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A11FF934-BC1E-4235-8738-48FD45748DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A11FF934-BC1E-4235-8738-48FD45748DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A11FF934-BC1E-4235-8738-48FD45748DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8DE729F-26C8-4C12-843F-BB3EC784A91F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8DE729F-26C8-4C12-843F-BB3EC784A91F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8DE729F-26C8-4C12-843F-BB3EC784A91F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8DE729F-26C8-4C12-843F-BB3EC784A91F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFA61659-1A37-4ECC-BD70-88336865DD4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFA61659-1A37-4ECC-BD70-88336865DD4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFA61659-1A37-4ECC-BD70-88336865DD4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFA61659-1A37-4ECC-BD70-88336865DD4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F90F3DA5-3CD0-4EBB-AB6D-7F6A62B92CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90F3DA5-3CD0-4EBB-AB6D-7F6A62B92CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90F3DA5-3CD0-4EBB-AB6D-7F6A62B92CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90F3DA5-3CD0-4EBB-AB6D-7F6A62B92CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82716751-BCE3-4EBD-882E-0E1CC6CA5F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82716751-BCE3-4EBD-882E-0E1CC6CA5F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82716751-BCE3-4EBD-882E-0E1CC6CA5F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82716751-BCE3-4EBD-882E-0E1CC6CA5F97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
